@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Maschine learning engineer
 --------------------------
 
-Looking for work - https://t.me/Czardust
 
 *   🌍  I'm based in Nizhniy Novgorod
 *   ✉️  You can contact me at [Andrey.Danilin.work@yandex.ru](mailto:Andrey.Danilin.work@yandex.ru)
